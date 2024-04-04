@@ -6,7 +6,7 @@ This is a repository of RIME schemas for Toki Pona.
 
 1. Install [RIME](https://rime.im/)
 2. Install the font [Nishiki-teki](https://umihotaru.work/nishiki-teki.zip)
-3. Download the zipped [config files](https://github.com/dec32/Toki-Pona-Rime/archive/refs/heads/master.zip)
+3. Download the zipped [config files](https://github.com/dec32/rime-toki-pona/archive/refs/heads/master.zip)
 4. Copy all three config files:
 
     - `sitelen_pona.schema.yaml`
